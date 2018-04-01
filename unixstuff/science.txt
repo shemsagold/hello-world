@@ -1,0 +1,40 @@
+UNIX and Linux books
+If you wish to continue learning Unix, here is a list of good Unix and Linux books, ranging from beginners to advanced.
+
+
+
+ 
+
+Introduction to the UNIX Operating System
+What is UNIX?
+Files and processes
+The Directory Structure
+Starting an UNIX terminal
+Tutorial One
+Listing files and directories
+Making Directories
+Changing to a different Directory
+The directories . and ..
+Pathnames
+More about home directories and pathnames
+Tutorial Two
+Copying Files
+Moving Files
+Removing Files and directories
+Displaying the contents of a file on the screen
+Searching the contents of a file
+Tutorial Three
+Redirection
+Redirecting the Output
+Redirecting the Input
+Pipes
+Tutorial Four
+Wildcards
+Filename Conventions
+Getting Help
+Tutorial Five
+File system security (access rights)
+Changing access rights
+Processes and Jobs
+Listing suspended and background processes
+Killing a process
